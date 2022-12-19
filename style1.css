@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+body{
+  background-color: #9D7BB8;
+  font-family: 'Oswald';
+  padding: 0;
+  margin: 0;
+}
+.logo-name{
+  color: white;
+  padding-left: 15px;
+  width: 200px;
+  display: inline;
+}
+li {
+  display: inline;
+  list-style-type: none;
+  width: 60px;
+}
+a{
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px 20px 5px 15px;
+  letter-spacing: 2px;
+  margin: 10px;
+}
+.menu-bar{
+  position: relative;
+  display: inline;
+  left: 500px;
+}
+.login, .signup{
+  background-color: #F7B159;
+  border-radius: 25px;
+  width: 70px;
+}
+.women{
+  position: relative;
+  width: 500px;
+  left: 50px;
+}
+.text{
+  position: absolute;
+  left: 500px;
+  top: 300px;
+  font-size: 50px;
+  color: white;
+  width: 1200px;
+  font-family: 'Garantpro-bold';
+}
+.para{
+  font-family: 'Garantpro-regular';
+}
+.yel{
+  color: #F7B159;
+}
+.shop{
+  position: relative;
+  left: 500px;
+  background-color: #F7B159;
+  width: 100px;
+  padding: 15px;
+  text-decoration: none;
+  font-family: 'Garantpro-bold';
+  font-weight: 800;
+  border-radius: 5px;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  
+}
